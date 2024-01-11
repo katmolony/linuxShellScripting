@@ -1,0 +1,16 @@
+1 ; Carl ; Malone ; 0851231234 ; 09:00 ; Breakfast Chat ; GY101 ;
+2 ; Maria ; Henrick ; 0851231235 ; 10:00 ; Move To Cloud ; GY102 ; 
+3 ; Cathal ; Till ; 0851231237 ; 11:00 ; Equality in Tech ; GY103 ;
+4 ; Mollie ; Regal ; 0831189943 ; 12:00 ; Meet and Greet ; GY104 ;
+5 ; Kady ; Wallace ; 0831189912 ; 13:00 ; New Technology ; GY105 ;
+6 ; Kate ; Moon ; 0892116531 ; 10:00 ; Analytics Today ; GY101 ; 
+7 ; Hannah ; Bryant ; 0861226578 ; 15:00 ; Law of Tech ; GY102 ; 
+8 ; Brian ; Harkin ; 0831778900 ; 12:00 ; Biomechanics ; GY103 ; 
+9 ; Shona ; Murphy ; 0862245167 ; 13:00 ; Tech in Industry ; GY103 ; 
+10 ; Beth ; Cammins ; 0834446666 ; 14:00 ; Tech in Medicine ; GY105 ; 
+11 ; Kate ; Molony ; 0871114545 ; 13:00 ; Courses in Tech ; GY104 ; 
+12 ; Carl ; Dean ; 0876541323 ; 10:00 ; Touch Sreens ; GY105 ; 
+13 ; Trisha ; Mongoe ; 0871125566 ; 11:00 ; Lifestyle with Teck ; GY105 ; 
+14 ; Neil ; Young ; 0861114444 ; 12:00 ; Tech Talk ; GY105 ; 
+15 ; Kate ; Moon ; 0871130987 ; 15:00 ; New in Google ; GY104 ; 
+16 ; Will ; Clayton ; 0871150022 ; 16:00 ; Facebook Now ; GY104 ; 
