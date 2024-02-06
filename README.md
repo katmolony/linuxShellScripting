@@ -1,6 +1,6 @@
-## Linux Shell Scripting
+# Linux Shell Scripting
 
-# Programme: shell sript written for fictious conference cataloge
+## Programme: shell sript written for fictious conference cataloge
 
 * Add a new record
 * Edit added record
@@ -10,5 +10,6 @@
 
 Run through code in YouTube video:
 https://youtu.be/siAlPJVrk8g
+
 
 ![Linux Image](<linuxShell.png>)
