@@ -1,7 +1,5 @@
 ## Linux Shell Scripting
 
-![Linux Image](<linuxShell.png>)
-
 # Programme: shell sript written for fictious conference cataloge
 
 * Add a new record
@@ -12,3 +10,5 @@
 
 Run through code in YouTube video:
 https://youtu.be/siAlPJVrk8g
+
+![Linux Image](<linuxShell.png>)
