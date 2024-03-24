@@ -2,8 +2,9 @@
 
 Welcome to the Conference Catalog Shell Script! This is a Linux shell script designed for managing a fictional conference catalog. The script allows users to perform various operations such as adding, editing, searching, deleting records, scanning for duplicates, and more.
 
-![Linux Image](<linuxShell.png>){ width=50% }
-![Linux Image](linuxShell.png){ width=50% }
+![Linux Image](<linuxShell.png>)
+<img src="linuxShell.png" alt="Linux Symbol" width="30" height="30">
+
 
 ## Features
 
